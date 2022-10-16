@@ -7,30 +7,20 @@ const cors = require('cors')
 app.use(cors())
 
 const savages = {
-    'charlie' : {
-        'age': 24,
-        'status': 'Up and coming',
-        'birthLocation': 'Chicago, Illinois',
+    'camaro' : {
+        'url': `https://www.autogespot.com/chevrolet-camaro-zl1-2019/2022/06/06`,
     },
-    'bruce lee' : {
-        'age' : 32,
-        'status' : 'Top G',
-        'birthLocation' : ' San Francisco, CA, United States', 
+    'apartment' : {
+        'url' : `https://rejournals.com/wp-content/uploads/2020/10/Skyline-Residence-2-scaled.jpg`,
     },
-    'sylvester stallone' : {
-        'age' : 76,
-        'status' : 'Top G',
-        'birthLocation' : 'New York, NY, United States', 
+    'camaro zl1' : {
+        'url' : `https://ag-spots-2020.o.auroraobjects.eu/2020/04/09/chevrolet-camaro-zl1-1le-2019-c963509042020122351_1.jpg`,
     },
-    'Dolph Lundgren' : {
-        'age': 64,
-        'status' : 'Top G',
-        'birthLocation' : 'Spånga, Sweden',
+    'future' : {
+        'url': `https://unsplash.com/photos/s95oB2n9jng`,
     },
     'unknown' : {
-        'age': 0,
-        'status' : 'unknown',
-        'birthLocation' : 'unknown',
+        'url': `https://unsplash.com/photos/PhYq704ffdA`,
     }
 } 
 
