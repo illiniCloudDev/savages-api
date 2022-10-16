@@ -8,7 +8,7 @@ app.use(cors())
 
 const savages = {
     'camaro' : {
-        'url': `https://www.autogespot.com/chevrolet-camaro-zl1-2019/2022/06/06`,
+        'url': `https://ag-spots-2020.o.auroraobjects.eu/2020/04/09/chevrolet-camaro-zl1-1le-2019-c963509042020122351_3.jpg`,
     },
     'apartment' : {
         'url' : `https://rejournals.com/wp-content/uploads/2020/10/Skyline-Residence-2-scaled.jpg`,
@@ -16,11 +16,11 @@ const savages = {
     'camaro zl1' : {
         'url' : `https://ag-spots-2020.o.auroraobjects.eu/2020/04/09/chevrolet-camaro-zl1-1le-2019-c963509042020122351_1.jpg`,
     },
-    'future' : {
-        'url': `https://unsplash.com/photos/s95oB2n9jng`,
+    'taycan' : {
+        'url': `https://images.caricos.com/p/porsche/2020_porsche_taycan_4s/images/2560x1440/2020_porsche_taycan_4s_148_2560x1440.jpg`,
     },
     'unknown' : {
-        'url': `https://unsplash.com/photos/PhYq704ffdA`,
+        'url': `https://i.ytimg.com/vi/vkAWXQrCMZA/maxresdefault.jpg`,
     }
 } 
 
